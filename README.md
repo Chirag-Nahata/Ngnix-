@@ -57,10 +57,17 @@ server {
 }
 
 Note: Replace 8096 by the port number
+
 6. Do the same cofig for both the .tpl and .stpl file
+
 7. Go to hestia control panel
+
 8. Go the domain
+
 9. Click on Edit
+
 10. Click on Advanced Options
+
 11. Under Proxy Template select the template you just created.
+
 12. Click Save
