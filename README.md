@@ -1,4 +1,4 @@
-# Ngnix Web Template for Hestia
+# Ngnix Web Template for Hestia Control Panel
 
 1. cd /usr/local/hestia/data/templates/web/nginx/
 2. cp default.tpl websitename.tpl
